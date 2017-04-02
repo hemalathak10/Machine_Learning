@@ -1,9 +1,0 @@
-git init
-git add .
-git config --global user.name "hemalathak10"
-git config --global user.email "hemalathak10@gmail.com"
-git commit
-
-remove the comment line
-git remote add origin https://github.com/hemalathak10/Machine_Learning.git
-git push -u origin master
